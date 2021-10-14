@@ -1,0 +1,3 @@
+Patricia Alonso del Real, Javier García Céspedes
+a051 
+Hemos realizado una mejora en la ventana QuizPlay, al pulsar el botón "Mostrar Respuesta" muestra la respuesta que habría que introducir en la caja de texto
